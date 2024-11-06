@@ -1,0 +1,127 @@
+body{
+    background-color: cadetblue;
+}
+.img{
+    width: 350px;
+    margin-left: 50px ;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.textos{
+    align-self: center;
+    color: black;
+    font-size: 40px;
+}
+.tenedor{
+    display: flex;
+    justify-content: left;
+    margin: 20px;
+}
+.car{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    align-self: center;
+}
+.imgj{
+    width: 450px;
+    margin-right: 50px ;
+}
+.todo{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.nada{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    align-self: center;
+    margin: 20px;
+}
+.ojo{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    align-self: center;
+}
+P{
+    font-size: 30PX;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(25, 42, 90);
+    text-align: center;
+}
+.ja{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+.je{
+    display: flex;
+    
+}
+.bu{
+    font-size:24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    text-align: left;
+}
+.gi{
+    width: 150px;
+    margin-left: 50px;
+    
+}
+.co{
+    color: black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagen1{
+    width: 350px;
+    height: 350px;
+    margin-right: 10px;
+}
+.imagen2{
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+}
+.imagen4{
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+}    
+.imagen5{
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+}
+.imagen3{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.imagen6{
+    display: flex;
+    justify-content: center;
+    margin: 50px; 
+}
+.imagen7{
+    width: 350px;
+    height: 350px;
+    margin-right: 100px;
+}
+.imagen8{
+    width: 350px;
+    height: 350px;
+    margin-left: 100px;
+}
